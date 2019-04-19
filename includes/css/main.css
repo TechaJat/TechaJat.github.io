@@ -1,0 +1,41 @@
+#welcome-hero-image {
+
+    /* height: 50vh; */
+
+    background-image: url('../images/DJ_001.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#welcome-hero {
+    color: whitesmoke;
+    background: rbga(0,0,0,0);
+    text-align: center;
+    height: 60vh;
+    line-height: 60vh;
+}
+
+#welcome-hero-text {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+#welcome-hero-text h1 {
+    font-size: 24pt;
+}
+
+#welcome-hero-text p {
+    font-size: 18pt;
+}
+
+#section-about-bg {
+    background: #EEEEEE;
+    height: 100vh;
+}
+
+#section-about {
+    padding: 20vh 5% 5% 5%;
+}
